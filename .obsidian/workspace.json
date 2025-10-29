@@ -141,12 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Writing systems/Writing systems.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Writing systems"
             }
           },
           {
@@ -178,7 +179,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c68395dc02df9da9",
+  "active": "d5365103699264ac",
   "lastOpenFiles": [
     "Writing systems/Katakana ; カタカナ.md",
     "Writing systems/Hiragana ; ひらがな.md",
