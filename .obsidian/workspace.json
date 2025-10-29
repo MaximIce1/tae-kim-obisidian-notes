@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "74e00e24140220fa",
+        "id": "72107fb20507f0d6",
         "type": "tabs",
         "children": [
           {
-            "id": "c68395dc02df9da9",
+            "id": "956bda5422fd77f5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Writing systems/Katakana ; カタカナ.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".gitignore",
+                "bFile": ".gitignore",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Katakana ; カタカナ"
+              "icon": "diff",
+              "title": "Diff: .gitignore"
             }
           }
         ]
@@ -178,13 +178,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c68395dc02df9da9",
+  "active": "956bda5422fd77f5",
   "lastOpenFiles": [
-    "Writing systems/Hiragana ; ひらがな.md",
     "Writing systems/Katakana ; カタカナ.md",
+    "Writing systems/Hiragana ; ひらがな.md",
     "Writing systems/Writing systems.md",
-    "Pasted image 20251028222757.png",
     "Welcome.md",
+    "Pasted image 20251028222757.png",
     "assets/ReadingGirl1.png",
     "assets/WritingGirl1.png",
     "Writing systems/Hiragana ; ひらがな",
