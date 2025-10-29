@@ -11,10 +11,14 @@
             "id": "c68395dc02df9da9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Writing systems/Katakana ; カタカナ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Katakana ; カタカナ"
             }
           }
         ]
@@ -137,12 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Writing systems/Katakana ; カタカナ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Katakana ; カタカナ"
             }
           },
           {
@@ -176,9 +181,9 @@
   },
   "active": "c68395dc02df9da9",
   "lastOpenFiles": [
+    "Writing systems/Hiragana ; ひらがな.md",
     "Writing systems/Writing systems.md",
     "Writing systems/Katakana ; カタカナ.md",
-    "Writing systems/Hiragana ; ひらがな.md",
     "Pasted image 20251028222757.png",
     "Welcome.md",
     "assets/ReadingGirl1.png",
