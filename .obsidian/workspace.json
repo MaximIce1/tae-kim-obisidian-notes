@@ -11,14 +11,14 @@
             "id": "c68395dc02df9da9",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".gitignore",
-                "bFile": ".gitignore",
-                "aRef": ""
+                "file": "Writing systems/Katakana ; カタカナ.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: .gitignore"
+              "icon": "lucide-file",
+              "title": "Katakana ; カタカナ"
             }
           }
         ]
@@ -180,8 +180,8 @@
   },
   "active": "c68395dc02df9da9",
   "lastOpenFiles": [
-    "Writing systems/Katakana ; カタカナ.md",
     "Writing systems/Hiragana ; ひらがな.md",
+    "Writing systems/Katakana ; カタカナ.md",
     "Writing systems/Writing systems.md",
     "Pasted image 20251028222757.png",
     "Welcome.md",
