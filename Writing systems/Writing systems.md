@@ -2,5 +2,5 @@
 
 ![[WritingGirl1.png]]
 
-[[Hiragana ; ひらがな]]
-[[Katakana ; カタカナ]]
+[[Hiragana 「ひらがな」]]
+[[Katakana「カタカナ」]]

@@ -10,3 +10,18 @@ The same thing as ひらがな、but used as
 |       |                          |   ル   |   ユ   |   ム   |   フ   |   ヌ   | ツ <br>`(tsu)` |      ス       |   ク   |  ウ  |  **u**  |
 |       | ヱ^[Not used anymore]<br> |   レ   |       |   メ   |   ヘ   |   ネ   |       テ       |      セ       |   ケ   |  エ  | ***e*** |
 |       |            ヲ             |   ロ   |   ヨ   |   モ   |   ホ   |   ノ   |       ト       |      ソ       |   コ   |  オ  |  **o**  |
+
+
+
+### Long vowel sound
+
+That one is simpler than ひらがな
+Just add a ー after the character to make it long
+Example:
+	キー 　「Key」
+
+
+
+
+
+%%i will finish writing systems later hhhhhh%
